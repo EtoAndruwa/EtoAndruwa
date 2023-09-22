@@ -1,5 +1,5 @@
 # Hi there 👋
 
-MIPT, MOSCOW
-Languages: C/C++
-RT 2 course 
+* MIPT, MOSCOW
+* RT 2 course 
+* Languages: C/C++
